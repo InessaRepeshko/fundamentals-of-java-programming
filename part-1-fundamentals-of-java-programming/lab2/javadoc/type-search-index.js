@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"task4","l":"AlignString"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"task3","l":"FindFibonacciNumbers"},{"p":"task2","l":"FindPrimeNumbers"},{"p":"task1","l":"OperateArrays"}];updateSearchResults();

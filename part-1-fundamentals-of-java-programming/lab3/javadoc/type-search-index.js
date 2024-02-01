@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"task1","l":"AbstractMetroStation"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"task1","l":"CommentComparator"},{"p":"task1","l":"Hour"},{"p":"task1","l":"Main"},{"p":"task1","l":"MetroStationWithArray"},{"p":"task1","l":"MetroStationWithSorting"}];updateSearchResults();

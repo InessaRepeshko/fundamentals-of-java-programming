@@ -1,0 +1,7 @@
+Station:	Name: 'Derzhprom'.	Opened: 1995.	Hours: 6
+Hour	{ ridership = 320,	comment = 'Medium ridership' }
+Hour	{ ridership = 88,	comment = 'Very low ridership' }
+Hour	{ ridership = 107,	comment = 'Low ridership' }
+Hour	{ ridership = 688,	comment = 'High ridership' }
+Hour	{ ridership = 1234,	comment = 'Very high ridership' }
+Hour	{ ridership = 0,	comment = '' }

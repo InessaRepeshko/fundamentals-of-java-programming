@@ -26,7 +26,7 @@ If, suppose, the number of items of the array of strings corresponds to the numb
 | NNNN |
 | NN   |
 
-To implement two approaches: traditional, built on cycles and working with individual items and through the functions of the Arrays class (without cycles). Do not use streams and Arrays.stream() method.
+To implement two approaches: traditional, built on cycles and working with individual items and through the functions of the ```Arrays``` class (without cycles). Do not use streams and ```Arrays.stream()``` method.
 
 ## 2.2 Sieve of Eratosthenes
 
@@ -42,7 +42,7 @@ Implement a function for computing of Fibonacci numbers (up to the 92nd integer)
 F(1) = F(2) = 1;   F(n) = F(n - 2) + F(n - 1)
 ```
 
-At the first call, the array is filled until the required number. At subsequent calls, the number either returns from the array, or is calculated using the last two numbers stored in an array. Use the long type to represent numbers.
+At the first call, the array is filled until the required number. At subsequent calls, the number either returns from the array, or is calculated using the last two numbers stored in an array. Use the ```long``` type to represent numbers.
 
 Perform function testing for different values of numbers entered in an arbitrary order.
 

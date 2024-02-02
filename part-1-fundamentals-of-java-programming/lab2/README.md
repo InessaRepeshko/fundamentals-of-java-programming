@@ -52,6 +52,6 @@ Read string from command line and then add spaces until string length will be eq
 
 ## Examples of program results
 
-![lab2_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab2/lab2_report.docx)
+[lab2_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab2/lab2_report.docx)
 
 © Inessa Repeshko. 2023

@@ -18,7 +18,7 @@ For example, suppose a two-dimensional array of integers that contains the follo
 | 18           | 4              |
 | 19           | 2              |
 
-If, suppose, the number of items of the array of strings corresponds to the number of rows of the array of numbers, and the minimum elements of the array are the number of repetitions of a certain character, and the character to be repeated is 'N', we will get such an array of strings:
+If, suppose, the number of items of the array of strings corresponds to the number of rows of the array of numbers, and the minimum elements of the array are the number of repetitions of a certain character, and the character to be repeated is $`N`$, we will get such an array of strings:
 
 | Rows |
 | :--- |
@@ -38,9 +38,8 @@ Do not use division and getting the remainder of the division in the program.
 
 Implement a function for computing of Fibonacci numbers (up to the 92nd integer) using an auxiliary array (static field). The function parameter should be Fibonacci number's index. The search for Fibonacci numbers is carried out according to the following rule:
 
-```
-F(1) = F(2) = 1;
-F(n) = F(n - 2) + F(n - 1)
+```math
+F(1) = F(2) = 1;   F(n) = F(n - 2) + F(n - 1)
 ```
 
 At the first call, the array is filled until the required number. At subsequent calls, the number either returns from the array, or is calculated using the last two numbers stored in an array. Use the long type to represent numbers.

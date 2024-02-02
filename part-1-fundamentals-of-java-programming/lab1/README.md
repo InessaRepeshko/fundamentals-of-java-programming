@@ -15,8 +15,8 @@ Program should contain the single class with two static functions:
 
 Particular function is given in the individual task according to your own index in the group students list (index of variant). Define the constant $`n`$ with the ```final``` modifier. Use the ```printf()``` function for formatted output.
 
-* Variant# 4
-* $`n`$ = 11
+* Variant #4.
+* $`n`$ = 11.
 * Function:
 ```math
 y = \begin{cases}
@@ -24,8 +24,9 @@ y = \begin{cases}
 \\ 23 - 2e^{7-x} , x \geq 7
 \end{cases} 
 ```
-
+<!---
 ![task1_1](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/screens/task1_1.png)
+-->
 
 ## 1.2 Powers of 8
 
@@ -38,8 +39,9 @@ Enter the values of $`x`$ and $`n`$, calculate and display the result of the exp
 ```math
 y =  \prod_{i=1}^{n-1} \sum_{j=0}^n \frac{i}{j + x} 
 ```
-
+<!---
 ![task1_3](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/screens/task1_3.png)
+-->
 
 If $`i`$ is equal to $`j + x`$, go to the next step of the external cycle without multiplying by the intermediate result. To proceed to the next step, use ```continue``` with a label.
 
@@ -51,6 +53,6 @@ Create a class with static functions to convert an argument of type ```boolean``
 
 ## Examples of program results
 
-![lab1_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/lab1_report.docx)
+[lab1_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/lab1_report.docx)
 
 © Inessa Repeshko. 2023

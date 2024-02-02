@@ -11,9 +11,9 @@ Program should contain reading data from keyboard and main loop, in which the fo
 
 Program should contain the single class with two static functions:
 * a separate static function to calculate the value of $`y`$ depending on the value of the argument $`x`$;
-* the main() method, which contains the reading the source data, as well as the cycle of calculating the function and output the values of $`x`$ and $`y`$.
+* the ```main()``` method, which contains the reading the source data, as well as the cycle of calculating the function and output the values of $`x`$ and $`y`$.
 
-Particular function is given in the individual task according to your own index in the group students list (index of variant). Define the constant $`n`$ with the final modifier. Use the printf() function for formatted output.
+Particular function is given in the individual task according to your own index in the group students list (index of variant). Define the constant $`n`$ with the ```final``` modifier. Use the ```printf()``` function for formatted output.
 
 * Variant# 4
 * $`n`$ = 11
@@ -37,13 +37,13 @@ Enter the values of $`x`$ and $`n`$, calculate and display the result of the exp
 
 ![task1_3](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/screens/task1_3.png)
 
-If $`i`$ is equal to $`j + x`$, go to the next step of the external cycle without multiplying by the intermediate result. To proceed to the next step, use continue with a label.
+If $`i`$ is equal to $`j + x`$, go to the next step of the external cycle without multiplying by the intermediate result. To proceed to the next step, use ```continue``` with a label.
 
-If the denominator at any iteration is 0, exit both loops with an error message. To exit, use break with a label.
+If the denominator at any iteration is 0, exit both loops with an error message. To exit, use ```break``` with a label.
 
 ## 1.4 Type Conversion Function Library
 
-Create a class with static functions to convert an argument of type boolean to an integer value (0 or 1) and vice versa (zero is false, non-zero value is true). Demonstrate the invocation of functions by calling them from another class created in another package. Apply normal and static import.
+Create a class with static functions to convert an argument of type ```boolean``` to an integer value (0 or 1) and vice versa (zero is ```false```, non-zero value is ```true```). Demonstrate the invocation of functions by calling them from another class created in another package. Apply normal and static import.
 
 ## Examples of program results
 

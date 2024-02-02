@@ -35,6 +35,10 @@ Read integer value of $`n`$ (from 1 to 10) and display powers of 8 from 1 to $`n
 
 Enter the values of $`x`$ and $`n`$, calculate and display the result of the expression:
 
+```math
+y =  \prod_{i=1}^{n-1} \sum_{j=0}^n \frac{i}{j + x} 
+```
+
 ![task1_3](https://github.com/InessaRepeshko/java-programming/blob/main/part-1-fundamentals-of-java-programming/lab1/screens/task1_3.png)
 
 If $`i`$ is equal to $`j + x`$, go to the next step of the external cycle without multiplying by the intermediate result. To proceed to the next step, use ```continue``` with a label.

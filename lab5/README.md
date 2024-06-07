@@ -2,7 +2,7 @@
 
 ## 5.1 Individual Task
 
-Create and implement classes that represent entities given in an individual assignment of the [Laboratory training #4](https://github.com/InessaRepeshko/java-programming/blob/main/lab4). The decision should be based on the hierarchy of classes.
+Create and implement classes that represent entities given in an individual assignment of the [Laboratory training #4](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab4). The decision should be based on the hierarchy of classes.
 
 You need to create two derived classes from the class that represents the main entity. The first derived class should be supplemented by the ability to read data from the appropriately prepared text file and write this data to another file after sorting. The second derived class should implement support reading data from a pre-generated XML document, storing data in structures that are automatically created using data binding technology, and writing data to another XML document after sorting. To avoid duplication of data in the program, you must also redefine the class representing the second entity. Derived classes should implement a common interface, which declare the functions of reading from a file and writing to a file.
 
@@ -18,6 +18,6 @@ Create classes ```Student``` and ```Academic Group``` (with an array of students
 
 ## Examples of program results
 
-[lab5_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/lab5/lab5_report.docx)
+[lab5_report.docx](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab5/lab5_report.docx)
 
 © Inessa Repeshko. 2023

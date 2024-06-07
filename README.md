@@ -16,6 +16,12 @@ The subject "Fundamentals of Java Programming" is devoted to the theoretical and
             <th>Score</th>
         </tr>
         <tr>
+            <th><a href="https://github.com/InessaRepeshko/java-programming/tree/main" target="_blank">Part # 1</a></th>
+            <th>Theoretical and practical aspects of basic means and an object-oriented model of Java language.</th>
+            <th>-</th>
+            <th>98</th>
+        </tr>
+        <tr>
             <th><a href="https://github.com/InessaRepeshko/java-programming/tree/main/lab1" target="_blank">Lab # 1</a></th>
             <th>Java Architecture and Syntax.</th>
             <th><a href="https://github.com/InessaRepeshko/java-programming/blob/main/lab1/lab1_report.docx" target="_blank">lab1_report.docx</a></th>

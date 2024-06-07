@@ -1,8 +1,11 @@
 # Fundamentals of Java Programming
 The repository contains the results of the Laboratory Trainings for the course "Fundamentals of Java Programming" (2023) during studies at National Technical University  "Kharkiv Polytechnic Institute".
 
-## Overview
 The subject "Fundamentals of Java Programming" is devoted to the theoretical and practical aspects of basic means and an object-oriented model of Java language.
+
+
+
+## Overview
 
 <div>
     <table width="100%" border="0" cellpadding="1" align="center">  

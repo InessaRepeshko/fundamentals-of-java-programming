@@ -90,6 +90,6 @@ Calculate a definite integral by using both algorithms for different functions o
 
 ## Examples of program results
 
-[lab3_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/lab3/lab3_report.docx)
+[lab3_report.docx](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab3/lab3_report.docx)
 
 © Inessa Repeshko. 2023

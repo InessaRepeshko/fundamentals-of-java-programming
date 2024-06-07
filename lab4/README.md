@@ -2,7 +2,7 @@
 
 ## 4.1 Individual Task
 
-Add new classes to the hierarchy of classes created by implementing of the individual task given in the [Laboratory training #3](https://github.com/InessaRepeshko/java-programming/blob/main/lab3). You should add derived classes that represent the first of the entities of the individual task. The first class should represent data using list (```ArrayList```), the second should use set (```SortedSet```).
+Add new classes to the hierarchy of classes created by implementing of the individual task given in the [Laboratory training #3](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab3). You should add derived classes that represent the first of the entities of the individual task. The first class should represent data using list (```ArrayList```), the second should use set (```SortedSet```).
 
 Use Collections class to sort the list. When working with set, you should consistently create multiple sets sorted according to different criteria.
 
@@ -57,6 +57,6 @@ Independently implement associative array based on a red-black tree.
 
 ## Examples of program results
 
-[lab4_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/lab4/lab4_report.docx)
+[lab4_report.docx](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab4/lab4_report.docx)
 
 © Inessa Repeshko. 2023

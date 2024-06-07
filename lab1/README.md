@@ -47,6 +47,6 @@ Create a class with static functions to convert an argument of type ```boolean``
 
 ## Examples of program results
 
-[lab1_report.docx](https://github.com/InessaRepeshko/java-programming/blob/main/lab1/lab1_report.docx)
+[lab1_report.docx](https://github.com/InessaRepeshko/fundamentals-of-java-programming/blob/main/lab1/lab1_report.docx)
 
 © Inessa Repeshko. 2023
